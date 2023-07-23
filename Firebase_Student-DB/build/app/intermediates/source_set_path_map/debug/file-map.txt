@@ -1,0 +1,18 @@
+com.example.hel.app-jetified-window-java-1.0.0-beta04-0 /home/rick/.gradle/caches/transforms-3/234cf6cab2ae0df1de11d520bd41701d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.hel.app-jetified-window-1.0.0-beta04-1 /home/rick/.gradle/caches/transforms-3/2f632d8dec5aedcc344894ac2d746d3d/transformed/jetified-window-1.0.0-beta04/res
+com.example.hel.app-jetified-annotation-experimental-1.1.0-2 /home/rick/.gradle/caches/transforms-3/63de43c2f1d406e95d47893f129ee7b9/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.hel.app-core-1.6.0-3 /home/rick/.gradle/caches/transforms-3/72d701307b1115688b608c7110be19e8/transformed/core-1.6.0/res
+com.example.hel.app-jetified-play-services-base-18.0.1-4 /home/rick/.gradle/caches/transforms-3/91fe2bec1e887c704cc6120aa38cfaef/transformed/jetified-play-services-base-18.0.1/res
+com.example.hel.app-jetified-play-services-basement-18.1.0-5 /home/rick/.gradle/caches/transforms-3/b1b34065a9e0fbeb945439284bc5f6a3/transformed/jetified-play-services-basement-18.1.0/res
+com.example.hel.app-jetified-firebase-common-20.3.3-6 /home/rick/.gradle/caches/transforms-3/b382574606cb6990fad73af0e708e7b1/transformed/jetified-firebase-common-20.3.3/res
+com.example.hel.app-debug-7 /home/rick/MyFiles/C-Self Stack/week-7/Firebase_Student-DB/android/app/src/debug/res
+com.example.hel.app-main-8 /home/rick/MyFiles/C-Self Stack/week-7/Firebase_Student-DB/android/app/src/main/res
+com.example.hel.app-google-services-9 /home/rick/MyFiles/C-Self Stack/week-7/Firebase_Student-DB/build/app/generated/res/google-services/debug
+com.example.hel.app-pngs-10 /home/rick/MyFiles/C-Self Stack/week-7/Firebase_Student-DB/build/app/generated/res/pngs/debug
+com.example.hel.app-resValues-11 /home/rick/MyFiles/C-Self Stack/week-7/Firebase_Student-DB/build/app/generated/res/resValues/debug
+com.example.hel.app-rs-12 /home/rick/MyFiles/C-Self Stack/week-7/Firebase_Student-DB/build/app/generated/res/rs/debug
+com.example.hel.app-mergeDebugResources-13 /home/rick/MyFiles/C-Self Stack/week-7/Firebase_Student-DB/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.hel.app-mergeDebugResources-14 /home/rick/MyFiles/C-Self Stack/week-7/Firebase_Student-DB/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.hel.app-merged_res-15 /home/rick/MyFiles/C-Self Stack/week-7/Firebase_Student-DB/build/app/intermediates/merged_res/debug
+com.example.hel.app-packaged_res-16 /home/rick/MyFiles/C-Self Stack/week-7/Firebase_Student-DB/build/cloud_firestore/intermediates/packaged_res/debug
+com.example.hel.app-packaged_res-17 /home/rick/MyFiles/C-Self Stack/week-7/Firebase_Student-DB/build/firebase_core/intermediates/packaged_res/debug

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">443309473929-2f4sp30vpq6uv4r4q52anld1tqrdlibj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">443309473929</string>
+    <string name="google_api_key" translatable="false">AIzaSyDizcQjsbZJeV9vWV1UQ0w4vyRlYAY6d7E</string>
+    <string name="google_app_id" translatable="false">1:443309473929:android:69749efca1a546a5ac0658</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDizcQjsbZJeV9vWV1UQ0w4vyRlYAY6d7E</string>
+    <string name="google_storage_bucket" translatable="false">flutter-student-database.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-student-database</string>
+</resources>
