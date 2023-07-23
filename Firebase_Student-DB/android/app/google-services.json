@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443309473929",
+    "project_id": "flutter-student-database",
+    "storage_bucket": "flutter-student-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443309473929:android:69749efca1a546a5ac0658",
+        "android_client_info": {
+          "package_name": "com.example.hel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443309473929-2f4sp30vpq6uv4r4q52anld1tqrdlibj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDizcQjsbZJeV9vWV1UQ0w4vyRlYAY6d7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443309473929-2f4sp30vpq6uv4r4q52anld1tqrdlibj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
