@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858464216139",
+    "project_id": "student-db-flutter",
+    "storage_bucket": "student-db-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858464216139:android:297da269e43e48504ad9ce",
+        "android_client_info": {
+          "package_name": "com.example.firebase_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858464216139-vkr7p7m6grggutpl2mee1ffqhq35sbod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdSqOfFr00votU9uIj-QBROLck4YNkyX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858464216139-vkr7p7m6grggutpl2mee1ffqhq35sbod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
